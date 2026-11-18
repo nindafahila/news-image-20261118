@@ -1,6 +1,8 @@
 # news-image-20261118
 
 [![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/nindafahila/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/nindafahila/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
 A one-image summary of the world's news of **Wednesday 18 November 2026**, drawn as a newspaper front page: Trump lands in Manila for Quad talks ahead of his China visit (lead), Ukraine hits the Crimean Bridge for a second day, Iran drones target a US radar in Bahrain, Canada and China extend trade deals ahead of APEC, the UK sanctions Israeli settlement firms, Cyclone Akvan strengthens over the Bay of Bengal, and Dhoni retires from the IPL — plus an Amazon $7bn renewables pledge, a Baidu AI-bubble warning and the UN's October Ukraine toll in the footer ticker.
 
